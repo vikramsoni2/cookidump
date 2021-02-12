@@ -6,7 +6,6 @@
 
 import os
 import io
-import sys
 import time
 import pathlib
 import argparse
